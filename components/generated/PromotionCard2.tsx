@@ -1,0 +1,42 @@
+export default function PromotionCard2(p: { alt0: string; src0: string; t0: string; t1: string; t2: string }) {
+  return (
+    <mcd-promotion-card class="ng-c-3913105429 ng-h-2644530352">
+      <div className="ng-c-2644530352 promotion-box promotion-toggle">
+        <div className="ng-c-2644530352 pic">
+          <img className="ng-c-2644530352" alt={p.alt0} loading="lazy" src={p.src0} />
+          <div className="ng-c-2644530352 promotion-box__tag tag--bonus">
+            {" Bonus "}
+          </div>
+        </div>
+        <div className="ng-c-2644530352 promotion-box-inner content-style">
+          <div className="ng-c-2644530352 text-main">
+            <h3 className="ng-c-2644530352">
+              {p.t0}
+            </h3>
+            <p className="ng-c-2644530352">
+              {p.t1}
+            </p>
+          </div>
+          <div className="ng-c-2644530352 times">
+            <i className="ng-c-2644530352" style={{"maskImage":"url(/assets/images/icon-set/icon-clock.svg)"}}></i>
+            <span className="ng-c-2644530352">
+              {p.t2}
+            </span>
+          </div>
+          <div className="ng-c-2644530352 button-box">
+            <div className="ng-c-2644530352 button button__apply" tabIndex={0}>
+              <span className="ng-c-2644530352">
+                {" Register Now "}
+              </span>
+            </div>
+            <div className="ng-c-2644530352 button btn-primary button__detail">
+              <span className="ng-c-2644530352">
+                {" Details "}
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </mcd-promotion-card>
+  );
+}
