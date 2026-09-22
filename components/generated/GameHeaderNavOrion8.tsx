@@ -4,39 +4,39 @@ type Row = Record<string, string>;
 
 const GAMEHEADERNAVORION8_LIST: Row[] = [
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_jili.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_jili.png);",
     "t0": "JILI"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_kingmaker.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_kingmaker.png);",
     "t0": "KM"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-joker.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-joker.png);",
     "t0": "Joker"
   },
   {
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/d2e6d9310c.png);",
     "t0": "Number"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_yesbingo.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_yesbingo.png);",
     "t0": "YELLOW BAT"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-playngo.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-playngo.png);",
     "t0": "PNG"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-cq9.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-cq9.png);",
     "t0": "CQ9"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-rich88.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-rich88.png);",
     "t0": "RICH88"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_hacksaw.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_hacksaw.png);",
     "t0": "HACKSAW"
   }
 ];

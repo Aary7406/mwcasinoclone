@@ -2,7 +2,7 @@ export default function TopBanner() {
   return (
     <mcd-top-banner class="ng-c-358032059 ng-h-309560012">
       <div className="ng-c-309560012 top-banner">
-        <img className="ng-c-309560012" alt="winner-board-banner" loading="lazy" src="/placeholders/image_339471.svg" />
+        <img className="ng-c-309560012" alt="winner-board-banner" loading="lazy" src="/assets/real/13060eb005.jpg" />
         <div className="ng-c-309560012 top-banner__content">
           <div className="ng-c-309560012 top-banner__dropdown">
             <div className="ng-c-309560012 top-banner__dropdown-decoration">

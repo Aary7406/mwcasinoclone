@@ -11,3 +11,14 @@ body:has(.popup-page-wrapper.active) {
   top: 0;
   width: 100%;
 }
+
+/* The site's own left-menu backdrop dim/blur (.layout-desktop--menu-open .layout-desktop__main:after)
+   is real, unmodified CSS from the capture, but it only activates inside a `@media (max-width: var(--x))`
+   query — and browsers can't evaluate a custom property inside a media condition, so it never fires at
+   any width on the live site either. Reproduced here, unconditionally, using the same color/blur values. */
+.layout-desktop--menu-open .layout-desktop__main::after {
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}

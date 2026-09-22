@@ -3,12 +3,12 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 const SLIDES = [
-  { alt: 'image_446664', src: '/placeholders/image_446664.svg' },
-  { alt: 'image_445667', src: '/placeholders/image_445667.svg' },
-  { alt: 'image_444855', src: '/placeholders/image_444855.svg' },
-  { alt: 'image_440528', src: '/placeholders/image_440528.svg' },
-  { alt: 'image_289462', src: '/placeholders/image_289462.svg' },
-  { alt: 'image_261526', src: '/placeholders/image_261526.svg' },
+  { alt: 'image_446664', src: '/assets/real/b00f61679e.jpg' },
+  { alt: 'image_445667', src: '/assets/real/8fe9108c00.jpg' },
+  { alt: 'image_444855', src: '/assets/real/de13fbf379.jpg' },
+  { alt: 'image_440528', src: '/assets/real/94553b59f8.jpg' },
+  { alt: 'image_289462', src: '/assets/real/bb6a024d8e.jpg' },
+  { alt: 'image_261526', src: '/assets/real/78fd652d29.jpg' },
 ];
 const GAP = 12;
 const INTERVAL = 4000;

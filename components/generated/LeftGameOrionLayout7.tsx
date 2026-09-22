@@ -7,7 +7,7 @@ export default function LeftGameOrionLayout7(p: { gametype0: string; gametype1: 
       <ul className="ng-c-3295987738 item-box left-menu__vendor-box">
         <li className="ng-c-3295987738 left-menu__subnav-item" game-type={p.gametype0} web-category-type="VENDOR">
           <a className="ng-c-3295987738">
-            <div className="ng-c-3295987738 left-menu__subnav-icon left-menu__subnav-icon--bg" style={{"backgroundImage":"url(/placeholders/provider-awcv2_jili.svg)"}}></div>
+            <div className="ng-c-3295987738 left-menu__subnav-icon left-menu__subnav-icon--bg" style={{"backgroundImage":"url(/assets/images/brand/white/provider-awcv2_jili.png)"}}></div>
             <p className="ng-c-3295987738">
               JILI
             </p>
@@ -39,7 +39,7 @@ export default function LeftGameOrionLayout7(p: { gametype0: string; gametype1: 
         </li>
         <li className="ng-c-3295987738 left-menu__subnav-item" game-type={p.gametype4} web-category-type="VENDOR">
           <a className="ng-c-3295987738">
-            <div className="ng-c-3295987738 left-menu__subnav-icon left-menu__subnav-icon--bg" style={{"backgroundImage":"url(/placeholders/provider-joker.svg)"}}></div>
+            <div className="ng-c-3295987738 left-menu__subnav-icon left-menu__subnav-icon--bg" style={{"backgroundImage":"url(/assets/images/brand/white/provider-joker.png)"}}></div>
             <p className="ng-c-3295987738">
               Joker
             </p>

@@ -5,17 +5,17 @@ type Row = Record<string, string>;
 const GAMEHEADERNAVORION2_LIST: Row[] = [
   {
     "vendorcode0": "CRICKET",
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/96e8731739.png);",
     "t0": "Exchange"
   },
   {
     "vendorcode0": "Saba",
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/7ddddfed53.png);",
     "t0": "Sportsbook"
   },
   {
     "vendorcode0": "SBTech",
-    "s0": "background-image: url(/placeholders/provider-sbtech.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-sbtech.png);",
     "t0": "BTi"
   }
 ];
@@ -28,17 +28,17 @@ const GAMEHEADERNAVORION2_LIST1: Row[] = [
   },
   {
     "vendorcode0": "CMD",
-    "s0": "background-image: url(/placeholders/provider-cmd.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-cmd.png);",
     "t0": "CMD"
   },
   {
     "vendorcode0": "AWCV2_PINNACLE",
-    "s0": "background-image: url(/placeholders/provider-awcv2_pinnacle.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_pinnacle.png);",
     "t0": "Pinnacle"
   },
   {
     "vendorcode0": "AWCV2_INSPORTS",
-    "s0": "background-image: url(/placeholders/provider-awcv2_insports.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_insports.png);",
     "t0": "iNsports"
   }
 ];
@@ -62,7 +62,7 @@ export default function GameHeaderNavOrion2() {
               </li>
             ))}
             <li className="ng-c-2843435143 navbar__sub-nav-item" extra-data="football" game-type="4" vendor-code="SBOv2" web-category-type="GAME">
-              <div className="ng-c-2843435143 navbar__sub-nav-item-icon" style={{"backgroundImage":"url(/placeholders/provider-sbov2.svg)"}}></div>
+              <div className="ng-c-2843435143 navbar__sub-nav-item-icon" style={{"backgroundImage":"url(/assets/images/brand/white/provider-sbov2.png)"}}></div>
               <p className="ng-c-2843435143 navbar__sub-nav-item-text">
                 SBO
               </p>

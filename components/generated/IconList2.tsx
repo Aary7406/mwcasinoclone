@@ -8,7 +8,7 @@ export default function IconList2() {
         <ul className="ng-c-1907600589">
           <li className="ng-c-1907600589">
             <a className="ng-c-1907600589" href="https://newcity.vip/" target="_blank">
-              <img className="ng-c-1907600589" alt="Official Brand Partner" fetchPriority="low" loading="lazy" src="/placeholders/new-city-vip.svg" />
+              <img className="ng-c-1907600589" alt="Official Brand Partner" fetchPriority="low" loading="lazy" src="/assets/images/footer/partner/new-city-vip.png" />
             </a>
           </li>
         </ul>

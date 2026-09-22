@@ -3,59 +3,59 @@ type Row = Record<string, string>;
 const ICONMARQUEE_LIST: Row[] = [
   {
     "alt0": "provider-awcmjili",
-    "src0": "/placeholders/provider-awcmjili.svg"
+    "src0": "/assets/images/brand/white/provider-awcmjili.png"
   },
   {
     "alt0": "provider-evo",
-    "src0": "/placeholders/provider-evo.svg"
+    "src0": "/assets/images/brand/white/provider-evo.png"
   },
   {
     "alt0": "provider-jdbaspribe",
-    "src0": "/placeholders/provider-jdbaspribe.svg"
+    "src0": "/assets/images/brand/white/provider-jdbaspribe.png"
   },
   {
     "alt0": "provider-pg",
-    "src0": "/placeholders/provider-pg.svg"
+    "src0": "/assets/images/brand/white/provider-pg.png"
   },
   {
     "alt0": "provider-awcmsexy",
-    "src0": "/placeholders/provider-awcmsexy.svg"
+    "src0": "/assets/images/brand/white/provider-awcmsexy.png"
   },
   {
     "alt0": "provider-awcmkm",
-    "src0": "/placeholders/provider-awcmkm.svg"
+    "src0": "/assets/images/brand/white/provider-awcmkm.png"
   },
   {
     "alt0": "provider-jdb",
-    "src0": "/placeholders/provider-jdb.svg"
+    "src0": "/assets/images/brand/white/provider-jdb.png"
   },
   {
     "alt0": "provider-awcmfc",
-    "src0": "/placeholders/provider-awcmfc.svg"
+    "src0": "/assets/images/brand/white/provider-awcmfc.png"
   },
   {
     "alt0": "provider-awcmyesbingo",
-    "src0": "/placeholders/provider-awcmyesbingo.svg"
+    "src0": "/assets/images/brand/white/provider-awcmyesbingo.png"
   },
   {
     "alt0": "provider-awcmladyluck",
-    "src0": "/placeholders/provider-awcmladyluck.svg"
+    "src0": "/assets/images/brand/white/provider-awcmladyluck.png"
   },
   {
     "alt0": "provider-awcmpp",
-    "src0": "/placeholders/provider-awcmpp.svg"
+    "src0": "/assets/images/brand/white/provider-awcmpp.png"
   },
   {
     "alt0": "provider-awcmsg",
-    "src0": "/placeholders/provider-awcmsg.svg"
+    "src0": "/assets/images/brand/white/provider-awcmsg.png"
   },
   {
     "alt0": "provider-awcmfastspin",
-    "src0": "/placeholders/provider-awcmfastspin.svg"
+    "src0": "/assets/images/brand/white/provider-awcmfastspin.png"
   },
   {
     "alt0": "provider-saba",
-    "src0": "/placeholders/provider-saba.svg"
+    "src0": "/assets/images/brand/white/provider-saba.png"
   },
   {
     "alt0": "icon-sbtech",
@@ -71,79 +71,79 @@ const ICONMARQUEE_LIST: Row[] = [
   },
   {
     "alt0": "provider-nextspin",
-    "src0": "/placeholders/provider-nextspin.svg"
+    "src0": "/assets/images/brand/white/provider-nextspin.png"
   },
   {
     "alt0": "provider-cq9",
-    "src0": "/placeholders/provider-cq9.svg"
+    "src0": "/assets/images/brand/white/provider-cq9.png"
   },
   {
     "alt0": "provider-awcmp8",
-    "src0": "/placeholders/provider-awcmp8.svg"
+    "src0": "/assets/images/brand/white/provider-awcmp8.png"
   },
   {
     "alt0": "provider-awcmrt",
-    "src0": "/placeholders/provider-awcmrt.svg"
+    "src0": "/assets/images/brand/white/provider-awcmrt.png"
   },
   {
     "alt0": "provider-awcmpt",
-    "src0": "/placeholders/provider-awcmpt.svg"
+    "src0": "/assets/images/brand/white/provider-awcmpt.png"
   },
   {
     "alt0": "provider-rich88",
-    "src0": "/placeholders/provider-rich88.svg"
+    "src0": "/assets/images/brand/white/provider-rich88.png"
   },
   {
     "alt0": "provider-ka",
-    "src0": "/placeholders/provider-ka.svg"
+    "src0": "/assets/images/brand/white/provider-ka.png"
   },
   {
     "alt0": "provider-worldmatch",
-    "src0": "/placeholders/provider-worldmatch.svg"
+    "src0": "/assets/images/brand/white/provider-worldmatch.png"
   },
   {
     "alt0": "provider-awcmp8",
-    "src0": "/placeholders/provider-awcmp8.svg"
+    "src0": "/assets/images/brand/white/provider-awcmp8.png"
   },
   {
     "alt0": "provider-netent",
-    "src0": "/placeholders/provider-netent.svg"
+    "src0": "/assets/images/brand/white/provider-netent.png"
   },
   {
     "alt0": "provider-awcmdg",
-    "src0": "/placeholders/provider-awcmdg.svg"
+    "src0": "/assets/images/brand/white/provider-awcmdg.png"
   },
   {
     "alt0": "provider-png",
-    "src0": "/placeholders/provider-png.svg"
+    "src0": "/assets/images/brand/white/provider-png.png"
   },
   {
     "alt0": "provider-joker",
-    "src0": "/placeholders/provider-joker.svg"
+    "src0": "/assets/images/brand/white/provider-joker.png"
   },
   {
     "alt0": "provider-ugv3",
-    "src0": "/placeholders/provider-ugv3.svg"
+    "src0": "/assets/images/brand/white/provider-ugv3.png"
   },
   {
     "alt0": "provider-mg",
-    "src0": "/placeholders/provider-mg.svg"
+    "src0": "/assets/images/brand/white/provider-mg.png"
   },
   {
     "alt0": "provider-bpoker",
-    "src0": "/placeholders/provider-bpoker.svg"
+    "src0": "/assets/images/brand/white/provider-bpoker.png"
   },
   {
     "alt0": "provider-awcmyl",
-    "src0": "/placeholders/provider-awcmyl.svg"
+    "src0": "/assets/images/brand/white/provider-awcmyl.png"
   },
   {
     "alt0": "provider-awcmhotroad",
-    "src0": "/placeholders/provider-awcmhotroad.svg"
+    "src0": "/assets/images/brand/white/provider-awcmhotroad.png"
   },
   {
     "alt0": "provider-awcmiloveu",
-    "src0": "/placeholders/provider-awcmiloveu.svg"
+    "src0": "/assets/images/brand/white/provider-awcmiloveu.png"
   }
 ];
 

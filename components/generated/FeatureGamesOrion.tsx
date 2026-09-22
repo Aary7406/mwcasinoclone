@@ -34,52 +34,52 @@ const FEATUREGAMESORION_LIST: Row[] = [
 const FEATUREGAMESORION_LIST1: ComponentProps<typeof GameBox>[] = [
   {
     "alt0": "FC GOLDEN GENIE",
-    "src0": "/placeholders/FC-SLOT-028.svg",
+    "src0": "/assets/real/dc710f0ffd.png",
     "t0": "FC GOLDEN GENIE"
   },
   {
     "alt0": "FC SUPER ELEMENTS",
-    "src0": "/placeholders/FC-SLOT-049.svg",
+    "src0": "/assets/real/2ad454ce05.png",
     "t0": "FC SUPER ELEMENTS"
   },
   {
     "alt0": "FC CHINESE NEW YEAR",
-    "src0": "/placeholders/FC-SLOT-007.svg",
+    "src0": "/assets/real/84a71bc2ea.png",
     "t0": "FC CHINESE NEW YEAR"
   },
   {
     "alt0": "FC LEGEND OF INCA",
-    "src0": "/placeholders/FC-SLOT-034.svg",
+    "src0": "/assets/real/eabc5165da.png",
     "t0": "FC LEGEND OF INCA"
   },
   {
     "alt0": "FC CHINESE NEW YEAR 2",
-    "src0": "/placeholders/FC-SLOT-022.svg",
+    "src0": "/assets/real/af8d278fbe.png",
     "t0": "FC CHINESE NEW YEAR 2"
   },
   {
     "alt0": "FC FORTUNE GODDESS",
-    "src0": "/placeholders/FC-SLOT-041.svg",
+    "src0": "/assets/real/51763b3cb8.png",
     "t0": "FC FORTUNE GODDESS"
   },
   {
     "alt0": "FC CHINESE NEW YEAR MOREWAYS",
-    "src0": "/placeholders/FC-SLOT-043.svg",
+    "src0": "/assets/real/d8b0ca54cc.png",
     "t0": "FC CHINESE NEW YEAR MOREWAYS"
   },
   {
     "alt0": "FC NIGHT MARKET",
-    "src0": "/placeholders/FC-SLOT-004.svg",
+    "src0": "/assets/real/5ac66250a2.png",
     "t0": "FC NIGHT MARKET"
   },
   {
     "alt0": "FC TREASURE RAIDERS",
-    "src0": "/placeholders/FC-SLOT-024.svg",
+    "src0": "/assets/real/8282730036.png",
     "t0": "FC TREASURE RAIDERS"
   },
   {
     "alt0": "FC SUGAR BANG BANG 2",
-    "src0": "/placeholders/FC-SLOT-048.svg",
+    "src0": "/assets/real/b63b9f43bb.png",
     "t0": "FC SUGAR BANG BANG 2"
   }
 ];

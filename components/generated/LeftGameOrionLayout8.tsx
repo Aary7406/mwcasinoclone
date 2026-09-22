@@ -4,63 +4,63 @@ type Row = Record<string, string>;
 
 const LEFTGAMEORIONLAYOUT8_LIST: Row[] = [
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_jili.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_jili.png);",
     "t0": "JILI"
   },
   {
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/17c9af90be.png);",
     "t0": "JDB"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_pg.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_pg.png);",
     "t0": "PG"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_fc.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_fc.png);",
     "t0": "FC"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-ka.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-ka.png);",
     "t0": "KA"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-cq9.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-cq9.png);",
     "t0": "CQ9"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_kingmaker.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_kingmaker.png);",
     "t0": "KM"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-rich88.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-rich88.png);",
     "t0": "RICH88"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_nextspin.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_nextspin.png);",
     "t0": "NEXTSPIN"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_cg.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_cg.png);",
     "t0": "CG"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_pp.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_pp.png);",
     "t0": "PP"
   },
   {
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/f75196886f.png);",
     "t0": "YL"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_relax.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_relax.png);",
     "t0": "RELAX"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_hacksaw.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_hacksaw.png);",
     "t0": "HACKSAW"
   },
   {
-    "s0": "background-image: url(/placeholders/darkIcon.svg);",
+    "s0": "background-image: url(/assets/real/f592d57511.png);",
     "t0": "MMG"
   }
 ];

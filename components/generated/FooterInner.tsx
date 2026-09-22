@@ -27,7 +27,7 @@ export default function FooterInner() {
               </h2>
               <ul>
                 <li>
-                  <img alt="FC BAYERN MUNICH" loading="lazy" src="/placeholders/fc-bayern-munich.svg" />
+                  <img alt="FC BAYERN MUNICH" loading="lazy" src="/assets/images/footer/partner/fc-bayern-munich.webp" />
                   <strong>
                     FC Bayern Munich
                   </strong>
@@ -43,7 +43,7 @@ export default function FooterInner() {
               </h2>
               <ul>
                 <li>
-                  <img alt="BUNDESLIGA" loading="lazy" src="/placeholders/bundesliga.svg" />
+                  <img alt="BUNDESLIGA" loading="lazy" src="/assets/images/footer/partner/bundesliga.png" />
                   <strong>
                     Bundesliga
                   </strong>
@@ -59,7 +59,7 @@ export default function FooterInner() {
               </h2>
               <ul>
                 <li>
-                  <img alt="Anrich Nortje" loading="lazy" src="/placeholders/anrich-nortje.svg" />
+                  <img alt="Anrich Nortje" loading="lazy" src="/assets/images/footer/ambassador/anrich-nortje.png" />
                   <strong>
                     Anrich Nortje
                   </strong>
@@ -68,7 +68,7 @@ export default function FooterInner() {
                   </p>
                 </li>
                 <li>
-                  <img alt="Lukas Podolski" loading="lazy" src="/placeholders/lukas-podolski.svg" />
+                  <img alt="Lukas Podolski" loading="lazy" src="/assets/images/footer/ambassador/lukas-podolski.png" />
                   <strong>
                     Lukas Podolski
                   </strong>

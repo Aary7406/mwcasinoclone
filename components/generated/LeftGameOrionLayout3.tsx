@@ -4,43 +4,43 @@ type Row = Record<string, string>;
 
 const LEFTGAMEORIONLAYOUT3_LIST: Row[] = [
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_evolution.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_evolution.png);",
     "t0": "EVO"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_sexybcrt.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_sexybcrt.png);",
     "t0": "Sexy"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_pp.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_pp.png);",
     "t0": "PP"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_hotroad.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_hotroad.png);",
     "t0": "HotRoad"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_pt.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_pt.png);",
     "t0": "PT"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_dreamgaming.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_dreamgaming.png);",
     "t0": "DG"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-mg.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-mg.png);",
     "t0": "MG"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_viacasino.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_viacasino.png);",
     "t0": "VIA"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_creedroomz.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_creedroomz.png);",
     "t0": "CREEDROOMZ"
   },
   {
-    "s0": "background-image: url(/placeholders/provider-awcv2_winfinity.svg);",
+    "s0": "background-image: url(/assets/images/brand/white/provider-awcv2_winfinity.png);",
     "t0": "WINFINITY"
   }
 ];

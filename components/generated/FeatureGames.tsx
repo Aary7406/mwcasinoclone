@@ -3,22 +3,22 @@ type Row = Record<string, string>;
 const FEATUREGAMES_LIST: Row[] = [
   {
     "alt0": "Lucky Tamarin",
-    "src0": "/placeholders/JILI-SLOT-209.svg",
+    "src0": "/assets/real/1ee62b2891.webp",
     "t0": "Lucky Tamarin"
   },
   {
     "alt0": "Fortune Garuda 1000",
-    "src0": "/placeholders/JILI-SLOT-225.svg",
+    "src0": "/assets/real/434b3faccc.webp",
     "t0": "Fortune Garuda 1000"
   },
   {
     "alt0": "Super Ace Speed Exclusive",
-    "src0": "/placeholders/JILI-SLOT-151.svg",
+    "src0": "/assets/real/7e4b434914.png",
     "t0": "Super Ace Speed Exclusive"
   },
   {
     "alt0": "Super Ace",
-    "src0": "/placeholders/JILI-SLOT-027.svg",
+    "src0": "/assets/real/6e54686bd9.png",
     "t0": "Super Ace"
   },
   {
@@ -28,7 +28,7 @@ const FEATUREGAMES_LIST: Row[] = [
   },
   {
     "alt0": "Crazy Time",
-    "src0": "/placeholders/EVOLUTION-LIVE-006.svg",
+    "src0": "/assets/real/e504e1aa2b.webp",
     "t0": "Crazy Time"
   }
 ];

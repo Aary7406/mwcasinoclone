@@ -26,7 +26,7 @@ export default function CarouselFrameAlpha() {
             {CAROUSELFRAMEALPHA_LIST.map((it, i) => (
               <div key={i} className={"ng-c-1758678389 " + it.cls} style={sty(it.s0)} data-carousel-unit-index="0">
                 <div className="ng-c-2153227597 item">
-                  <div className="ng-c-2153227597 item-pic" style={{"backgroundImage":"url(/placeholders/image_261073.svg)"}}></div>
+                  <div className="ng-c-2153227597 item-pic" style={{"backgroundImage":"url(/assets/real/ef1cf04d6e.jpg)"}}></div>
                 </div>
               </div>
             ))}
