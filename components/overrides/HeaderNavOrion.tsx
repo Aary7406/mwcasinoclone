@@ -1,6 +1,8 @@
 'use client';
 
 import { useEffect, useRef, type MouseEvent } from 'react';
+import { useRouter } from 'next/navigation';
+import navVendors from '@/lib/lobby/nav-vendors.json';
 import GameHeaderNavOrion from '../generated/GameHeaderNavOrion';
 import GameHeaderNavOrion2 from '../generated/GameHeaderNavOrion2';
 import GameHeaderNavOrion3 from '../generated/GameHeaderNavOrion3';
@@ -24,8 +26,13 @@ const openItem = (item: Element) => {
  * transition (`.navbar__item:hover`, untouched); the panel itself opens on click and
  * closes on a second click of the same category or a click anywhere outside the nav.
  */
+const LOBBY_SLUG: Record<string, string> = {
+  Casino: 'casino', Slot: 'slot', Crash: 'crash', Table: 'table', Fishing: 'fishing', Arcade: 'arcade', Lottery: 'lottery',
+};
+
 export default function HeaderNavOrion() {
   const navRef = useRef<HTMLElement>(null);
+  const router = useRouter();
 
   useEffect(() => {
     const onDocClick = (e: globalThis.MouseEvent) => {
@@ -40,6 +47,18 @@ export default function HeaderNavOrion() {
   }, []);
 
   const onClick = (e: MouseEvent<HTMLElement>) => {
+    // provider tile inside a dropdown -> that category's game lobby, filtered to the provider
+    const tile = (e.target as HTMLElement).closest('.navbar__sub-nav-item[web-category-type="VENDOR"]');
+    if (tile) {
+      const slug = LOBBY_SLUG[tile.closest('.navbar__item')?.getAttribute('data-category') ?? ''];
+      if (!slug) return;
+      const name = tile.querySelector('.navbar__sub-nav-item-text')?.textContent?.trim() ?? '';
+      const vendor = (navVendors as Record<string, Record<string, string>>)[slug]?.[name] ?? '';
+      e.currentTarget.querySelectorAll('.navbar__item.open').forEach(closeItem);
+      router.push(`/bd/en/${slug}${vendor ? `?vendor=${vendor}` : ''}`);
+      window.dispatchEvent(new CustomEvent('lobby:select', { detail: { slug, vendor } }));
+      return;
+    }
     const head = (e.target as HTMLElement).closest('.navbar__item-head');
     if (!head) return; // click landed inside an already-open panel's content, not the category head
     const item = head.closest('.navbar__item');

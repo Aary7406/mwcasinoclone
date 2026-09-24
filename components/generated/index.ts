@@ -44,6 +44,7 @@ export { default as LeftGameOrionLayout6 } from './LeftGameOrionLayout6';
 export { default as LeftGameOrionLayout7 } from './LeftGameOrionLayout7';
 export { default as LeftGameOrionLayout8 } from './LeftGameOrionLayout8';
 export { default as LeftMenuOrion } from './LeftMenuOrion';
+export { default as LoginFormStatic } from './LoginFormStatic';
 export { default as Marquee } from './Marquee';
 export { default as NextEvent } from './NextEvent';
 export { default as PrivacyPolicyContent } from './PrivacyPolicyContent';

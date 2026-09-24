@@ -1,0 +1,56 @@
+/* Phone layout. The captured desktop CSS already scales most components; this layer only
+   reflows the pieces that assume a wide screen, following the original's mobile view
+   (scrolling category strip, full-width banner, 2-up game grids, single-column promos). */
+@media (max-width: 768px) {
+  /* header: compact logo + buttons so nothing overlaps */
+  .header__brand { gap: 8px !important; flex: none !important; }
+  .header__menu-btn { margin-right: 0 !important; padding: 6px !important; }
+  .header__logo { width: 64px !important; background-size: contain !important; background-position: left center !important; }
+  .header__right { gap: 6px !important; }
+  .header__btn { width: auto !important; min-width: 0 !important; height: 32px !important; padding: 0 12px !important; font-size: 13px !important; }
+  .header__switch-lang { width: 26px !important; height: 26px !important; flex: none !important; }
+  .header__switch-lang img { width: 100% !important; height: 100% !important; }
+
+  /* top nav becomes a horizontally scrolling category strip */
+  .navbar > ul { width: 100% !important; justify-content: flex-start !important; overflow-x: auto !important; scrollbar-width: none !important; }
+  .navbar > ul::-webkit-scrollbar { display: none !important; }
+  .navbar > ul > .navbar__item, .navbar > ul > mcd-game-header-nav-orion { flex: 0 0 auto !important; }
+  .navbar__sub-nav-inner { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; grid-auto-rows: auto !important; padding: 12px !important; }
+
+  /* hero banner: show the whole image, no side arrows */
+  .carousel__slide, .carousel__image { height: auto !important; }
+  .carousel__image { object-fit: contain !important; }
+  .carousel__navigation { display: none !important; }
+
+  /* featured games: drop the tall side banner, provider tabs scroll, 2-up grid */
+  .recommend-bg.feature-games-orion { grid-template-columns: minmax(0, 1fr) !important; }
+  .feature-games-orion .slot-slider-banner { display: none !important; }
+  .recommend-main { overflow: visible !important; }
+  .games-tab-group { position: static !important; max-width: 100% !important; overflow-x: auto !important; scrollbar-width: none !important; margin-bottom: 8px !important; }
+  .games-tab-group::-webkit-scrollbar { display: none !important; }
+  .games-tab-group > li { flex: 0 0 auto !important; }
+  .games-result-group { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+  .games-box { width: auto !important; }
+
+  /* promotions: one card per row */
+  .promotion-main { grid-template-columns: minmax(0, 1fr) !important; }
+  mcd-promotion-card, .promotion-box { width: 100% !important; }
+
+  /* favourites / event banners: drop the desktop track offset, swipe instead */
+  .carousel-frame-alpha__track { transform: none !important; width: 100% !important; overflow-x: auto !important; scroll-snap-type: x mandatory !important; gap: 8px !important; scrollbar-width: none !important; }
+  .carousel-frame-alpha__track::-webkit-scrollbar { display: none !important; }
+  .carousel-frame-alpha__unit--duplicated { display: none !important; }
+  .carousel-frame-alpha__unit { flex: 0 0 85% !important; scroll-snap-align: start !important; }
+  .carousel-frame-alpha__unit .item, .carousel-frame-alpha__unit .item-pic { width: 100% !important; }
+  .carousel-frame-alpha__unit .item-pic { height: auto !important; aspect-ratio: 16 / 9 !important; background-size: cover !important; }
+
+  /* footer: 2 columns instead of 4 */
+  .footer .row { display: flex !important; flex-wrap: wrap !important; gap: 16px 12px !important; }
+  .footer .row > :not([class*="mcd-"]):not(mcd-icon-list):not(mcd-social-media-list):not(mcd-about-us),
+  .footer .row > * > [class^="footer__"] { flex: 1 1 calc(50% - 12px) !important; min-width: 0 !important; grid-area: auto !important; }
+
+  /* game lobby: sort buttons share the row instead of overflowing */
+  .game-lobby-title-bar__filter-list { flex: 1 1 auto !important; min-width: 0 !important; }
+  .game-lobby-title-bar__filter-item { flex: 1 1 0 !important; min-width: 0 !important; }
+  .game-lobby-title-bar__filter-button { width: 100% !important; min-width: 0 !important; padding: 0 4px !important; font-size: 12px !important; }
+}

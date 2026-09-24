@@ -1,6 +1,7 @@
 @import './styles/fonts.css';
 @import './styles/site.css';
 @import './styles/components.css';
+@import './styles/mobile.css';
 
 /* Anything below is recreation-specific glue, kept minimal. */
 
@@ -22,3 +23,26 @@ body:has(.popup-page-wrapper.active) {
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
 }
+
+/* FAQ answer body: live-fetched CMS article content (images, numbered steps) has no captured
+   styling of its own, so give it minimal, legible spacing consistent with the guide site. */
+.faq-answer-body {
+  color: #cfd3e6;
+}
+.faq-answer-body p {
+  margin-bottom: 0.75rem;
+}
+.faq-answer-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  display: block;
+}
+.faq-answer-body a {
+  color: #ffd259;
+}
+
+/* FAQ search box: the captured Bootstrap form sits in a flex row and collapses without a basis */
+.guide-site .faq-contents form { flex: 1 1 100%; }
+.guide-site .faq-contents .input-group .form-control { width: 100%; min-height: 48px; }

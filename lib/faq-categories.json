@@ -1,0 +1,1034 @@
+{
+ "Deposit": [
+  {
+   "t": "How To Deposit via USDT",
+   "h": "/bd/en/faq/how-to-deposit-via-usdt"
+  },
+  {
+   "t": "How to Deposit via Local Bank",
+   "h": "/bd/en/faq/how-to-deposit-via-local-bank"
+  },
+  {
+   "t": "How To Claim your Bonus (Mobile)?",
+   "h": "/bd/en/faq/how-to-claim-your-bonus-mobile"
+  },
+  {
+   "t": "How To Claim your Bonus (Desktop)?",
+   "h": "/bd/en/faq/how-to-claim-your-bonus-desktop"
+  },
+  {
+   "t": "MCW Deposit Issue (Mobile)",
+   "h": "/bd/en/faq/mcw-deposit-issue-mobile"
+  },
+  {
+   "t": "MCW Deposit Issue (PC)",
+   "h": "/bd/en/faq/mcw-deposit-issue-pc"
+  },
+  {
+   "t": "How long does it take to process my deposit?",
+   "h": "/bd/en/faq/how-long-does-it-take-to-process-my-deposit"
+  },
+  {
+   "t": "What currencies do you accept?",
+   "h": "/bd/en/faq/what-currencies-do-you-accept"
+  },
+  {
+   "t": "What should I do if I am having a problem making a deposit?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-am-having-a-problem-making-a-deposit"
+  },
+  {
+   "t": "What are the minimum and maximum deposit amounts?",
+   "h": "/bd/en/faq/what-are-the-minimum-and-maximum-deposit-amounts"
+  },
+  {
+   "t": "What deposit methods we accept?",
+   "h": "/bd/en/faq/what-deposit-methods-we-accept"
+  },
+  {
+   "t": "What payment gateway options do we have?",
+   "h": "/bd/en/faq/what-payment-gateway-options-do-we-have"
+  },
+  {
+   "t": "Are there any deposit fees?",
+   "h": "/bd/en/faq/are-there-any-deposit-fees"
+  },
+  {
+   "t": "How do transactions work through our payment methods?",
+   "h": "/bd/en/faq/how-do-transactions-work-through-our-payment-methods"
+  },
+  {
+   "t": "How do I deposit via bKash?",
+   "h": "/bd/en/faq/how-do-I-deposit-via-bKash"
+  },
+  {
+   "t": "How do I deposit via Rocket?",
+   "h": "/bd/en/faq/how-do-I-deposit-via-rocket"
+  },
+  {
+   "t": "How do I deposit via Bank Transfer?",
+   "h": "/bd/en/faq/how-do-I-deposit-via-bank-transfer"
+  },
+  {
+   "t": "How do I deposit via USDT?",
+   "h": "/bd/en/faq/how-do-I-deposit-via-usdt"
+  },
+  {
+   "t": "How can I check my deposit status?",
+   "h": "/bd/en/faq/how-can-I-check-my-deposit-status"
+  },
+  {
+   "t": "Why is my deposit pending?",
+   "h": "/bd/en/faq/why-is-my-deposit-pending"
+  },
+  {
+   "t": "Why was my deposit rejected?",
+   "h": "/bd/en/faq/why-was-my-deposit-rejected"
+  },
+  {
+   "t": "What should I do if my deposit is not credited?",
+   "h": "/bd/en/faq/what-should-I-do-if-my-deposit-is-not-credited"
+  },
+  {
+   "t": "Is account verification required?",
+   "h": "/bd/en/faq/is-account-verification-required"
+  },
+  {
+   "t": "How do I complete KYC verification?",
+   "h": "/bd/en/faq/how-do-I-complete-kyc-verification"
+  },
+  {
+   "t": "Can I deposit using unregistered number?",
+   "h": "/bd/en/faq/can-I-deposit-using-unregistered-number"
+  },
+  {
+   "t": "How do I claim the welcome bonus?",
+   "h": "/bd/en/faq/how-do-I-claim-the-welcome-bonus"
+  },
+  {
+   "t": "What are the bonus wagering requirements?",
+   "h": "/bd/en/faq/what-are-the-bonus-wagering-requirements"
+  },
+  {
+   "t": "Is my payment information secure?",
+   "h": "/bd/en/faq/Is-my-payment-information-secure"
+  },
+  {
+   "t": "What should I do if I deposit an amount lower than the minimum deposit requirement?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-deposit-an-amount-lower-than-the-minimum-deposit-requirement"
+  },
+  {
+   "t": "How do I contact support?",
+   "h": "/bd/en/faq/how-do-I-contact-support"
+  },
+  {
+   "t": "Can I deposit using a third-party number in ATP Deposit Channel?",
+   "h": "/bd/en/faq/can-I-deposit-using-a-third-party-number-in-atp-deposit-channel"
+  },
+  {
+   "t": "How do I deposit via Nagad?",
+   "h": "/bd/en/faq/how-do-I-deposit-via-nagad"
+  }
+ ],
+ "Withdrawal": [
+  {
+   "t": "MCW Withdrawal Issue (Mobile)",
+   "h": "/bd/en/faq/mcw-withdrawal-issue-mobile"
+  },
+  {
+   "t": "MCW Withdrawal Issue (PC)",
+   "h": "/bd/en/faq/mcw-withdrawal-issue-pc"
+  },
+  {
+   "t": "Can I make a withdrawal to a bank registered under a different name?",
+   "h": "/bd/en/faq/can-i-make-a-withdrawal-to-a-bank-registered-under-a-different-name"
+  },
+  {
+   "t": "I don’t have any bonus, is there a requirement to be able to withdraw? If yes, what is the requirement?",
+   "h": "/bd/en/faq/i-dont-have-any-bonus-is-there-a-requirement-to-be-able-to-withdraw-if-yes-what-is-the-requirement"
+  },
+  {
+   "t": "What identification do I need to supply for making a withdrawal?",
+   "h": "/bd/en/faq/what-identification-do-i-need-to-supply-for-making-a-withdrawal"
+  },
+  {
+   "t": "Can I cancel a withdrawal request and how do I do it?",
+   "h": "/bd/en/faq/can-i-cancel-a-withdrawal-request-and-how-do-i-do-it"
+  },
+  {
+   "t": "What are the minimum and maximum withdrawal amounts?",
+   "h": "/bd/en/faq/what-are-the-minimum-and-maximum-withdrawal-amounts"
+  },
+  {
+   "t": "How can I make a withdrawal from my account?",
+   "h": "/bd/en/faq/how-can-I-make-a-withdrawal-from-my-account"
+  },
+  {
+   "t": "What withdrawal methods are available?",
+   "h": "/bd/en/faq/what-withdrawal-methods-are-available"
+  },
+  {
+   "t": "What are the minimum and maximum withdrawal limits?",
+   "h": "/bd/en/faq/what-are-the-minimum-and-maximum-withdrawal-limits"
+  },
+  {
+   "t": "How long does it take for a withdrawal to be processed?",
+   "h": "/bd/en/faq/how-long-does-it-take-for-a-withdrawal-to-be-processed"
+  },
+  {
+   "t": "Are there any fees or charges for withdrawals?",
+   "h": "/bd/en/faq/are-there-any-fees-or-charges-for-withdrawals"
+  },
+  {
+   "t": "Do I need to verify my account before requesting a withdrawal?",
+   "h": "/bd/en/faq/do-I-need-to-verify-my-account-before-requesting-a-withdrawal"
+  },
+  {
+   "t": "What documents are required for account verification?",
+   "h": "/bd/en/faq/what-documents-are-required-for-account-verification"
+  },
+  {
+   "t": "Are there any turnover or wagering requirements that must be met before I can withdraw?",
+   "h": "/bd/en/faq/are-there-any-turnover-or-wagering-requirements-that-must-be-met-before-I-can-withdraw"
+  },
+  {
+   "t": "How do bonuses and promotional credits impact withdrawals?",
+   "h": "/bd/en/faq/how-do-bonuses-and-promotional-credits-impact-withdrawals"
+  },
+  {
+   "t": "Why is my withdrawal request still pending?",
+   "h": "/bd/en/faq/why-is-my-withdrawal-request-still-pending"
+  },
+  {
+   "t": "Why was my withdrawal request rejected?",
+   "h": "/bd/en/faq/why-was-my-withdrawal-request-rejected"
+  },
+  {
+   "t": "What should I do if I have not received my withdrawal funds?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-have-not-received-my-withdrawal-funds"
+  },
+  {
+   "t": "Can I cancel a withdrawal request after submitting it?",
+   "h": "/bd/en/faq/can-I-cancel-a-withdrawal-request-after-submitting-it"
+  },
+  {
+   "t": "What is the processing time for withdrawals through bKash, Nagad, Rocket, and Bank Transfer?",
+   "h": "/bd/en/faq/what-is-the-processing-time-for-withdrawals-through-bkash-nagad-rocket-and-bank-transfer"
+  },
+  {
+   "t": "Can I make withdrawals using a different phone number that is not registered to my account?",
+   "h": "/bd/en/faq/can-I-make-withdrawals-using-a-different-phone-number-that-is-not-registered-to-my-account"
+  }
+ ],
+ "My Account": [
+  {
+   "t": "How To Unlock Your Account",
+   "h": "/bd/en/faq/how-to-unlock-your-account"
+  },
+  {
+   "t": "How to add a new number directly in player’s account?",
+   "h": "/bd/en/faq/how-to-add-a-new-number-directly-in-players-account"
+  },
+  {
+   "t": "How to reset my password?",
+   "h": "/bd/en/faq/how-to-reset-my-password"
+  },
+  {
+   "t": "Mobile Verification",
+   "h": "/bd/en/faq/mobile-verification"
+  },
+  {
+   "t": "Email Verification",
+   "h": "/bd/en/faq/email-verification"
+  },
+  {
+   "t": "What should I do if I have failed to log in to my account?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-have-failed-to-log-in-to-my-account"
+  },
+  {
+   "t": "What should I do if I have failed to verify my phone number and emails?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-have-failed-to-verify-my-phone-number-and-emails"
+  },
+  {
+   "t": "Can I change or update my personal information?",
+   "h": "/bd/en/faq/can-i-change-or-update-my-personal-information"
+  },
+  {
+   "t": "Can I have more than one account?",
+   "h": "/bd/en/faq/can-i-have-more-than-one-account"
+  },
+  {
+   "t": "How do I close my account?",
+   "h": "/bd/en/faq/how-do-i-close-my-account"
+  },
+  {
+   "t": "What should I do if I have forgotten my username or password?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-have-forgotten-my-username-or-password"
+  },
+  {
+   "t": "How do I create an account in MCW?",
+   "h": "/bd/en/faq/how-do-I-create-an-account-in-mcw"
+  },
+  {
+   "t": "Account cannot be created using the phone number?",
+   "h": "/bd/en/faq/account-cannot-be-created-using-the-phone-number"
+  },
+  {
+   "t": "Is the account not being created due to the username?",
+   "h": "/bd/en/faq/is-the-account-not-being-created-due-to-the-username"
+  },
+  {
+   "t": "How do I unlock my account after multiple failed login attempts?",
+   "h": "/bd/en/faq/how-do-I-unlock-my-account-after-multiple-failed-login-attempts"
+  },
+  {
+   "t": "How do I reset my password or recover my account?",
+   "h": "/bd/en/faq/how-do-I-reset-my-password-or-recover-my-account"
+  },
+  {
+   "t": "How do I verify my mobile number?",
+   "h": "/bd/en/faq/how-do-I-verify-my-mobile-number"
+  },
+  {
+   "t": "What should I do if I do not receive the verification code for email verification (OTP)?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-do-not-receive-the-verification-code-for-email-verification-otp"
+  },
+  {
+   "t": "Why did my mobile or email verification fail?",
+   "h": "/bd/en/faq/why-did-my-mobile-or-email-verification-fail"
+  },
+  {
+   "t": "How can I secure my account?",
+   "h": "/bd/en/faq/how-can-I-secure-my-account"
+  },
+  {
+   "t": "What should I do if I suspect unauthorized access to my account?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-suspect-unauthorized-access-to-my-account"
+  },
+  {
+   "t": "Why has my account been temporarily restricted or suspended?",
+   "h": "/bd/en/faq/why-has-my-account-been-temporarily-restricted-or-suspended"
+  },
+  {
+   "t": "Is account verification (KYC) required?",
+   "h": "/bd/en/faq/Is-account-verification-kyc-required"
+  },
+  {
+   "t": "Can I update my personal information?",
+   "h": "/bd/en/faq/can-I-update-my-personal-information"
+  },
+  {
+   "t": "How do I change my registered mobile number?",
+   "h": "/bd/en/faq/how-do-I-change-my-registered-mobile-number"
+  },
+  {
+   "t": "How can I add a new phone number to my account and  Verify it ?",
+   "h": "/bd/en/faq/how-can-I-add-a-new-phone-number-to-my-account-and-verify-it"
+  },
+  {
+   "t": "Can I use someone else's mobile phone to log in my account ?",
+   "h": "/bd/en/faq/can-I-use-someone-elses-mobile-phone-to-log-in-my-account"
+  },
+  {
+   "t": "What happens if multiple accounts are detected?",
+   "h": "/bd/en/faq/what-happens-if-multiple-accounts-are-detected"
+  },
+  {
+   "t": "How do I close/delete my account?",
+   "h": "/bd/en/faq/how-do-I-close-delete-my-account"
+  },
+  {
+   "t": "How can I update my account with a new phone number if my primary number is unavailable?",
+   "h": "/bd/en/faq/how-can-I-update-my-account-with-a-new-phone-number-if-my-primary-number-is-unavailable"
+  },
+  {
+   "t": "How can I contact Customer Support for account-related issues?",
+   "h": "/bd/en/faq/how-can-I-contact-customer-support-for-account-related-issues"
+  },
+  {
+   "t": "How do I add an email address to my account and verify it?",
+   "h": "/bd/en/faq/how-do-I-add-an-email-address-to-my-account-and-verify-it"
+  }
+ ],
+ "Technical": [
+  {
+   "t": "Why can’t I access the MCW website?",
+   "h": "/bd/en/faq/why-cant-i-access-the-mcw-website"
+  },
+  {
+   "t": "What should I do if I encounter problem with the connection?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-encounter-problem-with-the-connection"
+  },
+  {
+   "t": "What should I do if I cannot log into my account?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-cannot-log-into-my-account"
+  },
+  {
+   "t": "What should I do if I have a problem with accessing the MCW website?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-have-a-problem-with-accessing-the-mcw-website"
+  },
+  {
+   "t": "What should I do if I cannot log in to my account?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-cannot-log-in-to-my-account"
+  },
+  {
+   "t": "What should I do if I encounter an error while trying to access the site?",
+   "h": "/bd/en/faq/what-should-I-do-if-I-encounter-an-error-while-trying-to-access-the-site"
+  },
+  {
+   "t": "Why is the MCW website loading slowly?",
+   "h": "/bd/en/faq/why-is-the-mcw-website-loading-slowly"
+  },
+  {
+   "t": "Why am I receiving a \"Page Not Found\" or \"Site Unavailable\" message?",
+   "h": "/bd/en/faq/why-am-I-receiving-a-page-not-found-or-site-unavailable-message"
+  },
+  {
+   "t": "Why am I being logged out or disconnected from my session repeatedly?",
+   "h": "/bd/en/faq/why-am-I-being-logged-out-or-disconnected-from-my-session-repeatedly"
+  },
+  {
+   "t": "What should I do if games are not loading properly on my device?",
+   "h": "/bd/en/faq/what-should-I-do-if-games-are-not-loading-properly-on-my-device"
+  }
+ ],
+ "Customer Care": [
+  {
+   "t": "What do you need my email address for?",
+   "h": "/bd/en/faq/what-do-you-need-my-email-address-for"
+  },
+  {
+   "t": "What is the email address for the customer service team?",
+   "h": "/bd/en/faq/what-is-the-email-address-for-the-customer-service-team"
+  },
+  {
+   "t": "How long will it take for the customer service team to reply to my email?",
+   "h": "/bd/en/faq/how-long-will-it-take-for-the-customer-service-team-to-reply-to-my-email"
+  },
+  {
+   "t": "How do I use live chat?",
+   "h": "/bd/en/faq/how-do-i-use-live-chat"
+  },
+  {
+   "t": "How can I contact the MCW Customer service team?",
+   "h": "/bd/en/faq/how-can-i-contact-the-mcw-customer-service-team"
+  },
+  {
+   "t": "How can I use the live chat feature to contact customer support?",
+   "h": "/bd/en/faq/How-can-I-use-the-live-chat-feature-to-contact-customer-support"
+  },
+  {
+   "t": "Can I contact the customer service team via Telegram?",
+   "h": "/bd/en/faq/Can-I-contact-the-customer-service-team-via-Telegram"
+  },
+  {
+   "t": "Is there an option to request a phone call from the customer service team?",
+   "h": "/bd/en/faq/Is-there-an-option-to-request-a-phone-call-from-the-customer-service-team"
+  }
+ ],
+ "Others": [
+  {
+   "t": "General MCW Terms and Conditions",
+   "h": "/bd/en/faq/general-mcw-terms-and-conditions"
+  },
+  {
+   "t": "How to Claim JDB Free Spins?",
+   "h": "/bd/en/faq/how-to-claim-jdb-free-spins"
+  },
+  {
+   "t": "How to claim PG Free Spins?",
+   "h": "/bd/en/faq/how-to-claim-pg-free-spins"
+  },
+  {
+   "t": "What are the games eligible for JILI Free Spin?",
+   "h": "/bd/en/faq/what-are-the-games-eligible-for-jili-free-spin"
+  },
+  {
+   "t": "How to join the new Referral Program?",
+   "h": "/bd/en/faq/how-to-join-the-new-referral-program"
+  },
+  {
+   "t": "What is AWC Game Hall?",
+   "h": "/bd/en/faq/what-is-awc-game-hall"
+  },
+  {
+   "t": "How to Claim Promo Code?",
+   "h": "/bd/en/faq/how-to-claim-promo-code"
+  },
+  {
+   "t": "Why certain games is not calculated on my total turnover?",
+   "h": "/bd/en/faq/why-certain-games-is-not-calculated-on-my-total-turnover"
+  },
+  {
+   "t": "How to Create Affiliate Account",
+   "h": "/bd/en/faq/how-to-create-affiliate-account"
+  },
+  {
+   "t": "How to refer a friend to play with MCW?",
+   "h": "/bd/en/faq/how-to-refer-a-friend-to-play-with-mcw"
+  },
+  {
+   "t": "Is it legal for me to bet?",
+   "h": "/bd/en/faq/is-it-legal-for-me-to-bet"
+  },
+  {
+   "t": "How can I be an affiliate of MCW?",
+   "h": "/bd/en/faq/how-can-i-be-an-affiliate-of-mcw"
+  },
+  {
+   "t": "How to claim World Cup Free Bet Vouchers",
+   "h": "/bd/en/faq/how-to-claim-world-cup-free-bet-vouchers"
+  },
+  {
+   "t": "Qualified Games for Free Spins",
+   "h": "/bd/en/faq/qualified-games-for-free-spins"
+  },
+  {
+   "t": "How to Add Additional Phone Numbers to Your Account",
+   "h": "/bd/en/faq/how-to-add-additional-phone-numbers-to-your-account"
+  },
+  {
+   "t": "How to Claim Real-Time Rebate or Rescue Bonus",
+   "h": "/bd/en/faq/how-to-claim-real-time-bonus"
+  },
+  {
+   "t": "How to Claim NCVIP Members - Exclusive FREE 50 SPINS",
+   "h": "/bd/en/faq/How-to-Claim-NCVIP-Members-Exclusive-FREE-50-SPINS"
+  },
+  {
+   "t": "How to Check My Betting History?",
+   "h": "/bd/en/faq/How-to-Check-My-Betting-History"
+  },
+  {
+   "t": "How to Receive Birthday or VIP Rewards?",
+   "h": "/bd/en/faq/How-to-Receive-Birthday-or-VIP-Rewards"
+  },
+  {
+   "t": "How to Report a Technical Issue?",
+   "h": "/bd/en/faq/How-to-Report-a-Technical-Issue"
+  },
+  {
+   "t": "How to Upgrade My VIP Level?",
+   "h": "/bd/en/faq/How-to-Upgrade-My-VIP-Level"
+  },
+  {
+   "t": "How to Check My Referral Earnings?",
+   "h": "/bd/en/faq/How-to-Check-My-Referral-Earnings"
+  },
+  {
+   "t": "What Are the Terms for Free Bets and Free Spins?",
+   "h": "/bd/en/faq/What-Are-the-Terms-for-Free-Bets-and-Free-Spins"
+  },
+  {
+   "t": "How to Download the Mobile App?",
+   "h": "/bd/en/faq/How-to-Download-the-Mobile-App"
+  },
+  {
+   "t": "How to Stay Safe and Avoid Fraud?",
+   "h": "/bd/en/faq/How-to-Stay-Safe-and-Avoid-Fraud"
+  },
+  {
+   "t": "Why Didn't I Receive My Bonus?",
+   "h": "/bd/en/faq/Why-Didnt-I-Receive-My-Bonus"
+  },
+  {
+   "t": "How Can I Check My Bonus Progress?",
+   "h": "/bd/en/faq/How-Can-I-Check-My-Bonus-Progress"
+  },
+  {
+   "t": "Can I Cancel an Active turnover?",
+   "h": "/bd/en/faq/Can-I-Cancel-an-Active-turnover"
+  },
+  {
+   "t": "Why Is My Turnover Not Increasing?",
+   "h": "/bd/en/faq/Why-is-My-Turnover-Not-Increasing"
+  },
+  {
+   "t": "What Happens If I Violate Promotion Rules?",
+   "h": "/bd/en/faq/What-Happens-If-I-Violate-Promotion-Rules"
+  },
+  {
+   "t": "Why Are Some Bets Marked as Void?",
+   "h": "/bd/en/faq/Why-Are-Some-Bets-Marked-as-Void"
+  },
+  {
+   "t": "Why Is My Withdrawal Under Review?",
+   "h": "/bd/en/faq/why-is-my-withdrawal-under-review"
+  },
+  {
+   "t": "How can I report a bet issue ?",
+   "h": "/bd/en/faq/how-can-i-report-a-bet-issue"
+  }
+ ],
+ "Sportsbook": [
+  {
+   "t": "Can I change or cancel my bet?",
+   "h": "/bd/en/faq/can-i-change-or-cancel-my-bet"
+  },
+  {
+   "t": "What is a Fancy Bet?",
+   "h": "/bd/en/faq/what-is-a-fancy-bet"
+  },
+  {
+   "t": "What is a Premium Bet?",
+   "h": "/bd/en/faq/what-is-a-premium-bet"
+  },
+  {
+   "t": "Placing a Lay Bet",
+   "h": "/bd/en/faq/placing-a-lay-bet"
+  },
+  {
+   "t": "What does the terms “Back” and “Lay” betting in Betting Exchange mean?",
+   "h": "/bd/en/faq/what-does-the-terms-back-and-lay-betting-in-betting-exchange-mean"
+  },
+  {
+   "t": "What is the difference between Bookmaker & Betting Exchange?",
+   "h": "/bd/en/faq/what-is-the-difference-between-bookmaker-betting-exchange"
+  },
+  {
+   "t": "How can I check my Exchange Betting history?",
+   "h": "/bd/en/faq/how-can-i-check-my-exchange-betting-history"
+  },
+  {
+   "t": "What is a Bet ID?",
+   "h": "/bd/en/faq/what-is-a-bet-id"
+  },
+  {
+   "t": "What are the minimum and maximum betting amounts?",
+   "h": "/bd/en/faq/what-are-the-minimum-and-maximum-betting-amounts"
+  },
+  {
+   "t": "What does ‘Accept at any odds’ mean?",
+   "h": "/bd/en/faq/what-does-accept-at-any-odds-mean"
+  },
+  {
+   "t": "The most popular Cricket Markets",
+   "h": "/bd/en/faq/the-most-popular-cricket-markets"
+  },
+  {
+   "t": "What is Kabaddi?",
+   "h": "/bd/en/faq/what-is-kabaddi"
+  },
+  {
+   "t": "Sportsbook – What is Virtual Sports?",
+   "h": "/bd/en/faq/sportsbook-what-is-virtual-sports"
+  },
+  {
+   "t": "Sportsbook – How do I create a Mix Parlay / Multiple Bet?",
+   "h": "/bd/en/faq/sportsbook-how-do-i-create-a-mix-parlay-multiple-bet"
+  },
+  {
+   "t": "What is Cash Out?",
+   "h": "/bd/en/faq/sportsbook-what-is-cash-out"
+  },
+  {
+   "t": "Sportsbook – What is Outright?",
+   "h": "/bd/en/faq/sportsbook-what-is-outright"
+  },
+  {
+   "t": "Sportsbook – What is Handicap?",
+   "h": "/bd/en/faq/sportsbook-what-is-handicap"
+  },
+  {
+   "t": "Sportsbook – What is 1X2?",
+   "h": "/bd/en/faq/sportsbook-what-is-1x2"
+  },
+  {
+   "t": "What is a Sportsbook?",
+   "h": "/bd/en/faq/what-is-a-sportsbook"
+  },
+  {
+   "t": "How do I place a bet?",
+   "h": "/bd/en/faq/how-do-i-place-a-bet"
+  },
+  {
+   "t": "What are odds?",
+   "h": "/bd/en/faq/what-are-odds"
+  },
+  {
+   "t": "Can I bet live during a match?",
+   "h": "/bd/en/faq/can-i-bet-live-during-a-match"
+  },
+  {
+   "t": "How do I withdraw my winnings?",
+   "h": "/bd/en/faq/how-do-i-withdraw-my-winnings"
+  },
+  {
+   "t": "What happens if a match is cancelled?",
+   "h": "/bd/en/faq/what-happens-if-a-match-is-cancelled"
+  },
+  {
+   "t": "Can I cancel a bet after placing it?",
+   "h": "/bd/en/faq/can-i-cancel-a-bet-after-placing-it"
+  },
+  {
+   "t": "How do bonuses work?",
+   "h": "/bd/en/faq/how-do-bonuses-work"
+  },
+  {
+   "t": "What is a Live Betting Market?",
+   "h": "/bd/en/faq/what-is-a-live-betting-market"
+  },
+  {
+   "t": "What is a Session Market in Cricket?",
+   "h": "/bd/en/faq/what-is-a-session-market-in-cricket"
+  },
+  {
+   "t": "What is Over/Under Betting?",
+   "h": "/bd/en/faq/what-is-over-under-betting"
+  },
+  {
+   "t": "What is a Correct Score Bet?",
+   "h": "/bd/en/faq/what-is-a-correct-score-bet"
+  },
+  {
+   "t": "What is Early Payout?",
+   "h": "/bd/en/faq/what-is-early-payout"
+  },
+  {
+   "t": "What is Odds Movement?",
+   "h": "/bd/en/faq/what-is-odds-movement"
+  },
+  {
+   "t": "What is Stake?",
+   "h": "/bd/en/faq/what-is-stake"
+  },
+  {
+   "t": "How is profit calculated in betting?",
+   "h": "/bd/en/faq/how-is-profit-calculated-in-betting"
+  },
+  {
+   "t": "What is Responsible Betting?",
+   "h": "/bd/en/faq/what-is-responsible-betting"
+  },
+  {
+   "t": "What is a Suspended Market?",
+   "h": "/bd/en/faq/what-is-a-suspended-market"
+  },
+  {
+   "t": "What is a Void Bet?",
+   "h": "/bd/en/faq/what-is-a-void-bet"
+  },
+  {
+   "t": "What is a Multi-Selection Bet?",
+   "h": "/bd/en/faq/what-is-a-multi-selection-bet"
+  },
+  {
+   "t": "What is Cash Out Value?",
+   "h": "/bd/en/faq/what-is-cash-out-value"
+  },
+  {
+   "t": "What is Market Depth in Exchange Betting?",
+   "h": "/bd/en/faq/what-is-market-depth-in-exchange-betting"
+  },
+  {
+   "t": "What is Bet Settlement?",
+   "h": "/bd/en/faq/what-is-bet-settlement"
+  },
+  {
+   "t": "What is Pre-match Betting?",
+   "h": "/bd/en/faq/what-is-pre-match-betting"
+  },
+  {
+   "t": "What are Odds Formats?",
+   "h": "/bd/en/faq/what-are-odds-formats"
+  },
+  {
+   "t": "What is a Betting Limit?",
+   "h": "/bd/en/faq/what-is-a-betting-limit"
+  },
+  {
+   "t": "What is a Fast Market?",
+   "h": "/bd/en/faq/what-is-a-fast-market"
+  },
+  {
+   "t": "What is Risk Management in Betting?",
+   "h": "/bd/en/faq/what-is-risk-management-in-betting"
+  }
+ ],
+ "Casino": [
+  {
+   "t": "Can I get a refund if I make a wrong bet?",
+   "h": "/bd/en/faq/can-i-get-a-refund-if-i-make-a-wrong-bet"
+  },
+  {
+   "t": "How can I know that the live casino games are streamed in real time?",
+   "h": "/bd/en/faq/how-can-i-know-that-the-live-casino-games-are-streamed-in-real-time"
+  },
+  {
+   "t": "What happens if I disconnect from a game?",
+   "h": "/bd/en/faq/what-happens-if-i-disconnect-from-a-game"
+  },
+  {
+   "t": "What should I do in case of an error or dispute?",
+   "h": "/bd/en/faq/what-should-i-do-in-case-of-an-error-or-dispute"
+  },
+  {
+   "t": "Is there any limitation on the minimum and maximum bet limits in each live casino platform?",
+   "h": "/bd/en/faq/is-there-any-limitation-on-the-minimum-and-maximum-bet-limits-in-each-live-casino-platform"
+  },
+  {
+   "t": "What is Teen Patti? (Only available on Mobile)",
+   "h": "/bd/en/faq/what-is-teen-patti-only-available-on-mobile"
+  },
+  {
+   "t": "What is Andar Bahar? (Only available on Mobile)",
+   "h": "/bd/en/faq/what-is-andar-bahar-only-available-on-mobile"
+  },
+  {
+   "t": "What is Sic Bo?",
+   "h": "/bd/en/faq/what-is-sic-bo"
+  },
+  {
+   "t": "What is Roulette?",
+   "h": "/bd/en/faq/what-is-roulette"
+  },
+  {
+   "t": "What is Dragon Tiger?",
+   "h": "/bd/en/faq/what-is-dragon-tiger"
+  },
+  {
+   "t": "What is Baccarat?",
+   "h": "/bd/en/faq/what-is-baccarat"
+  },
+  {
+   "t": "What kind of live casino games are available on MCW?",
+   "h": "/bd/en/faq/what-kind-of-live-casino-games-are-available-on-mcw"
+  },
+  {
+   "t": "What are Casino Providers?",
+   "h": "/bd/en/faq/what-are-casino-providers"
+  },
+  {
+   "t": "How do I access games from a specific provider?",
+   "h": "/bd/en/faq/how-do-i-access-games-from-a-specific-provider"
+  },
+  {
+   "t": "What providers are available in the Casino section?",
+   "h": "/bd/en/faq/what-providers-are-available-in-the-casino-section"
+  },
+  {
+   "t": "Are games from different providers fair?",
+   "h": "/bd/en/faq/are-games-from-different-providers-fair"
+  },
+  {
+   "t": "Why can't I see certain providers or games?",
+   "h": "/bd/en/faq/why-cant-i-see-certain-providers-or-games"
+  },
+  {
+   "t": "Do I need a separate account for each provider?",
+   "h": "/bd/en/faq/do-i-need-a-separate-account-for-each-provider"
+  },
+  {
+   "t": "Are live dealer games available?",
+   "h": "/bd/en/faq/are-live-dealer-games-available"
+  },
+  {
+   "t": "Can I play on mobile devices?",
+   "h": "/bd/en/faq/can-i-play-on-mobile-devices"
+  },
+  {
+   "t": "What should I do if a game fails to load?",
+   "h": "/bd/en/faq/what-should-i-do-if-a-game-fails-to-load"
+  },
+  {
+   "t": "How often are new games added?",
+   "h": "/bd/en/faq/how-often-are-new-games-added"
+  },
+  {
+   "t": "Are there promotions available for Casino games?",
+   "h": "/bd/en/faq/are-there-promotions-available-for-casino-games"
+  },
+  {
+   "t": "How can I report a technical issue with a game?",
+   "h": "/bd/en/faq/how-can-i-report-a-technical-issue-with-a-game"
+  },
+  {
+   "t": "Can I switch between providers during gameplay?",
+   "h": "/bd/en/faq/can-i-switch-between-providers-during-gameplay"
+  },
+  {
+   "t": "Are provider game results stored in my account history?",
+   "h": "/bd/en/faq/are-provider-game-results-stored-in-my-account-history"
+  },
+  {
+   "t": "Which provider should I choose?",
+   "h": "/bd/en/faq/which-provider-should-i-choose"
+  },
+  {
+   "t": "What is EVO?",
+   "h": "/bd/en/faq/what-is-evo"
+  },
+  {
+   "t": "How do I access EVO games?",
+   "h": "/bd/en/faq/how-do-i-access-evo-games"
+  },
+  {
+   "t": "What types of games does EVO offer?",
+   "h": "/bd/en/faq/what-types-of-games-does-evo-offer"
+  },
+  {
+   "t": "Do I need to download any software to play EVO games?",
+   "h": "/bd/en/faq/do-i-need-to-download-any-software-to-play-evo-games"
+  },
+  {
+   "t": "Can I play EVO games on mobile devices?",
+   "h": "/bd/en/faq/can-i-play-evo-games-on-mobile-devices"
+  },
+  {
+   "t": "Can I interact with live dealers?",
+   "h": "/bd/en/faq/can-i-interact-with-live-dealers"
+  },
+  {
+   "t": "Are EVO games available 24/7?",
+   "h": "/bd/en/faq/are-evo-games-available-24-7"
+  },
+  {
+   "t": "What should I do if I notice an incorrect game result?",
+   "h": "/bd/en/faq/what-should-i-do-if-i-notice-an-incorrect-game-result"
+  },
+  {
+   "t": "How do I search for a specific EVO game?",
+   "h": "/bd/en/faq/how-do-i-search-for-a-specific-evo-game"
+  },
+  {
+   "t": "What is  PP ?",
+   "h": "/bd/en/faq/what-is-pp"
+  }
+ ],
+ "Slots": [
+  {
+   "t": "How to Use my JILI Free Spin",
+   "h": "/bd/en/faq/how-to-use-my-jili-free-spin"
+  },
+  {
+   "t": "What is the wagering requirement?",
+   "h": "/bd/en/faq/what-is-the-wagering-requirement"
+  },
+  {
+   "t": "What does Payline mean?",
+   "h": "/bd/en/faq/what-does-payline-mean"
+  },
+  {
+   "t": "What happens if I disconnect from a game?",
+   "h": "/bd/en/faq/what-happens-if-i-disconnect-from-a-game-slots"
+  },
+  {
+   "t": "What slot games does MCW provide?",
+   "h": "/bd/en/faq/what-slot-games-does-mcw-provide"
+  },
+  {
+   "t": "What is RNG, and how do they work?",
+   "h": "/bd/en/faq/what-is-rng-and-how-do-they-work"
+  },
+  {
+   "t": "JL ( JiLi ) Golden Empire   : What is Super Ace?",
+   "h": "/bd/en/faq/JL-JiLi-golden-empire-what-is-super-ace"
+  },
+  {
+   "t": "PG  Provider Popular Game  Mahjong Ways 2",
+   "h": "/bd/en/faq/pg-provider-popular-game-mahjong-ways-2"
+  },
+  {
+   "t": "JDBProvider Popular Game  Fortune Gems",
+   "h": "/bd/en/faq/jdbprovider-popular-game-fortune-gems"
+  },
+  {
+   "t": "PP Provider Popular Game  Gates of Olympus",
+   "h": "/bd/en/faq/pp-provider-popular-game-gates-of-olympus"
+  },
+  {
+   "t": "FC Provider Popular Game  Crash",
+   "h": "/bd/en/faq/fc-provider-popular-game-crash"
+  },
+  {
+   "t": "PT Provider Popular Game  Caishen Wins",
+   "h": "/bd/en/faq/pt-provider-popular-game--caishen-wins"
+  },
+  {
+   "t": "BTG Provider Popular Game  Bonanza",
+   "h": "/bd/en/faq/btg-provider-popular-game-bonanza"
+  },
+  {
+   "t": "MG Provider Popular Game  Thunderstruck",
+   "h": "/bd/en/faq/mg-provider-popular-game-thunderstruck"
+  },
+  {
+   "t": "Dragonsoft Provider Popular Game  Dragon Tiger",
+   "h": "/bd/en/faq/dragonsoft-provider-popular-game-dragon-tiger"
+  },
+  {
+   "t": "P8 (Play8) Provider Popular Game  Lucky Fortune",
+   "h": "/bd/en/faq/P8-play8-provider-popular-game-lucky-fortune"
+  }
+ ],
+ "Table": [
+  {
+   "t": "Ludobet",
+   "h": "/bd/en/faq/ludobet"
+  },
+  {
+   "t": "BPoker",
+   "h": "/bd/en/faq/bpoker"
+  },
+  {
+   "t": "JILI",
+   "h": "/bd/en/faq/jili"
+  },
+  {
+   "t": "KM (Kingmaker) Kingmaker’s special features",
+   "h": "/bd/en/faq/km-kingmaker-kingmakers-special-features"
+  },
+  {
+   "t": "Top Table Games available at Mega Casino World",
+   "h": "/bd/en/faq/what-kind-of-table-games-are-available-on-mcw"
+  }
+ ],
+ "Lottery": [
+  {
+   "t": "Can I get a refund if I make a wrong bet?",
+   "h": "/bd/en/faq/can-i-get-a-refund-if-i-make-a-wrong-bet-lottery"
+  },
+  {
+   "t": "What happens if I disconnect from a game?",
+   "h": "/bd/en/faq/what-happens-if-i-disconnect-from-a-game-lottery"
+  },
+  {
+   "t": "What should I do in case of an error or dispute?",
+   "h": "/bd/en/faq/what-should-i-do-in-case-of-an-error-or-dispute-lottery"
+  },
+  {
+   "t": "What is a Number Game?",
+   "h": "/bd/en/faq/what-is-a-number-game"
+  },
+  {
+   "t": "What is a Parlay 5?",
+   "h": "/bd/en/faq/what-is-a-parlay-5"
+  },
+  {
+   "t": "What is a Happy 5?",
+   "h": "/bd/en/faq/what-is-a-happy-5"
+  },
+  {
+   "t": "What lottery games does MCW provide?",
+   "h": "/bd/en/faq/lottery"
+  }
+ ],
+ "MCW App": [
+  {
+   "t": "FAQs",
+   "h": "/bd/en/faq/faqs"
+  },
+  {
+   "t": "How to Setup Biometric the First Time in MCW App",
+   "h": "/bd/en/faq/how-to-setup-biometric-the-first-time-in-mcw-app"
+  },
+  {
+   "t": "How to Set-up Biometics Log In",
+   "h": "/bd/en/faq/how-to-set-up-biometics-log-in"
+  },
+  {
+   "t": "How to Download MCW App?",
+   "h": "/app-download/bd/en"
+  }
+ ]
+}
